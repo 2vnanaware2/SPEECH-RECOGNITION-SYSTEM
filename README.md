@@ -19,7 +19,7 @@ The program begins by importing the speech_recognition module and initializing t
 
 After recording the audio, the program attempts to convert it into text using recognize_google(), which connects to Google’s Web Speech API. This API takes the audio input and returns a text string, which the program then prints on the screen.
 
-#OUTPUT
+#OUTPUT :=
 I have speek "hello this is my second task" and then code give us textual format output see below
 
 <img width="665" height="458" alt="Image" src="https://github.com/user-attachments/assets/fb0ff71d-1658-4b15-a7b4-92703772c7ec" />
